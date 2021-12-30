@@ -1,2 +1,2 @@
 # Only-for-peter
-仅用于Peter测试使用
+仅限于Peter测试使用
